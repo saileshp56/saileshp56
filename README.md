@@ -1,3 +1,6 @@
+Thanks for taking the time to look at my page!
+
+
 ### What I'm working on 👨‍💻
 - [ ] Algorithmic Trading with Python
 - [ ] Blockchain Development and Research
