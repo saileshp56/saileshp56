@@ -1,7 +1,3 @@
-### Hello!
-
-I'm a 3rd year computer science student at the University of Waterloo. 
-
 ### What I'm working on 👨‍💻
 - [ ] Algorithmic Trading with Python
 - [ ] Blockchain Development and Research
