@@ -1,5 +1,7 @@
 Thanks for taking the time to look at my page!
 
+[![Github](https://img.shields.io/github/followers/saileshp56?label=Follow&style=social)](https://github.com/saileshp56)
+
 
 ### What I'm working on 👨‍💻
 - [ ] Algorithmic Trading with Python
