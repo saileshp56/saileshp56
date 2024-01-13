@@ -14,6 +14,16 @@ Thanks for taking the time to look at my page!
 - [ ] [𝕏 Twitter](https://twitter.com/unhingexd)
 - [ ] [Docker Hub](https://hub.docker.com/u/saileshp56)
 
+### Stats 💹
+#### My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=saileshp56&show_icons=true&theme=transparent)
+#### My GitHub Language Ratio
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saileshp56&layout=compact)
+#### My LeetCode Profile
+![Leetcode Stats](https://leetcard.jacoblin.cool/universalmusicgroup?theme=unicorn)
+
+
+
 <!--
 **saileshp56/saileshp56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
