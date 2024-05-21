@@ -4,9 +4,8 @@ Thanks for taking the time to look at my page!
 
 
 ### What I'm working on 👨‍💻
-- [ ] Researching Applications of ZK Proofs on ML under Doctor Sergey Gorbunov
+- [ ] Blockchain Development Tools
 - [ ] Algorithmic Trading with Python (on hold for now)
-- [ ] Blockchain Development and Research
 - [ ] Hackathons
 
 ### Links 📫
