@@ -4,7 +4,6 @@
 ### What I'm working on 👨‍💻
 - [ ] Software Development Engineer Intern at Amazon this summer
 - [ ] Blockchain Development Tools
-- [ ] Algorithmic Trading with Python (on hold for now)
 - [ ] Hackathons
 
 ### Links 📫
