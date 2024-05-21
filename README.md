@@ -12,13 +12,8 @@
 - [ ] [𝕏 Twitter](https://twitter.com/unhingexd)
 - [ ] [Docker Hub](https://hub.docker.com/u/saileshp56)
 
-### Stats 💹
-#### My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=saileshp56&show_icons=true&theme=transparent)
-#### My GitHub Language Ratio
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saileshp56&layout=compact)
-#### My LeetCode Profile
-![Leetcode Stats](https://leetcard.jacoblin.cool/universalmusicgroup?theme=unicorn)
+### How to Reach Me 💹
+Send me a message on x/twitter
 
 
 
