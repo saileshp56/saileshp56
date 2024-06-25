@@ -2,7 +2,7 @@
 
 
 ### What I'm working on 👨‍💻
-- [ ] Software Development Engineer Intern at Amazon this summer
+- [ ] I'm a Software Development Engineer Intern at Amazon this summer
 - [ ] Blockchain Development Tools
 - [ ] Hackathons
 
