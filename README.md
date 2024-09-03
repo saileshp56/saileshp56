@@ -2,8 +2,7 @@
 
 
 ### What I'm working on 👨‍💻
-- [ ] I'm a Software Development Engineer Intern at Amazon this summer
-- [ ] Blockchain Development Tools
+- [ ] AI stuff
 - [ ] Hackathons
 
 ### Links 📫
