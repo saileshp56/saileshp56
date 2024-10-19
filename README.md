@@ -2,7 +2,7 @@
 
 
 ### What I'm working on 👨‍💻
-- [ ] AI stuff
+- [ ] Learning about AI!
 - [ ] Hackathons
 
 ### Links 📫
