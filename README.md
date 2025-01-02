@@ -2,7 +2,7 @@
 
 
 ### What I'm working on 👨‍💻
-- [ ] Learning about HPC
+- [ ] Learning about Low-Level programming
 - [ ] Hackathons
 
 ### Links 📫
