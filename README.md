@@ -12,7 +12,7 @@
 - [ ] [Docker Hub](https://hub.docker.com/u/saileshp56)
 
 ### How to Reach Me 💹
-Send me a message on x/twitter
+Send me a message on x/twitter or email me at saileshp(dot)dev@gmail(dot)com
 
 
 
